@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class Main {
+public class Q1_CarInterface {
 
     interface CarInterface{
         List<Character> makeAndModel = new ArrayList<Character>();
